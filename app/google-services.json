@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "878071627270",
+    "firebase_url": "https://valoraapp.firebaseio.com",
+    "project_id": "valoraapp",
+    "storage_bucket": "valoraapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878071627270:android:e818c1157db29928bc4d87",
+        "android_client_info": {
+          "package_name": "com.example.valorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878071627270-rjk3qslia88n7l0pf47fj47d02uabnt8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.valorapp",
+            "certificate_hash": "6ca006e8526f46a6342bac3a99f7a62d635820f4"
+          }
+        },
+        {
+          "client_id": "878071627270-rtj5b6d3v0d7unrsumore09fsjoc85ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByW5gVDN_GxAOV1nZBEPqlUvDf5nd1S6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878071627270-rtj5b6d3v0d7unrsumore09fsjoc85ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
